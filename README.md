@@ -1,2 +1,1 @@
-# KHIJI
-Kグループメールフォーム（OUTLOOK2013使用）
+# TEST
